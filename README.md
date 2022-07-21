@@ -21,12 +21,12 @@ The Python script used to complete this analysis can be accessed via the link be
 [https://github.com/jbowman86/Election_Analysis/blob/main/PyPoll_Challenge_Revision.py]
 
 The election dataset used for the audit can be obtained via the following:
-
 [https://github.com/jbowman86/Election_Analysis/blob/main/election_results.csv] 
 
 The results of the election audit were:
 
 Terminal output: [https://github.com/jbowman86/Election_Analysis/blob/main/election_results_terminal_output.png]
+
 Text file output: [https://github.com/jbowman86/Election_Analysis/blob/main/election_results.txt]
 
 The election data yielded the following results:
