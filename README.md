@@ -18,8 +18,7 @@ The aim of the current analysis was to audit the results of an election in order
 ## Election Audit Results
 
 The Python script used to complete this analysis can be accessed via the link below:
-
-INSERT LINK TO SCRIPT PYTHON
+[(https://github.com/jbowman86/Election_Analysis/blob/main/PyPoll_Challenge_Revision.py)]
 
 The election dataset used for the audit can be obtained via the following:
 
