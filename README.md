@@ -53,7 +53,7 @@ The election data yielded the following results:
 
 ## Election Audit Summary
 
-The python script used to audit the Colorado congressional election has demonstrated that it can effectively determine the winning candidate and county turnout.  With minor modifications, the script could be adapted for other elections.  The following are ways that the script can be modified:
+The python script used to audit the Colorado congressional election has demonstrated that it can effectively determine the winning candidate and county turnout.  With minor modifications, the script could be adapted for other elections.  The following are ways that the script can be chnaged to achieve this goal:
 
 -	The analysis discussed only dealt with three counties and three candidates.  In some elections, there may be more counties and/or candidates.  The python script contained loops that can go through lists of counties and candidates that aren't just limited to this small dataset.  If data were available on other counties or states, the looping strategy can be altered to apply this code to different counties or candidates.
 -	Ballot ID numbers can be used to check if there are any duplicate counts within the dataset.  By comparing each ballot ID number against the entire list,  it can be determined if votes are counted more than once.  This adjustment to the script can thereby reduce the likelihood of counting individual votes multiple times.
