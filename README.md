@@ -6,7 +6,7 @@ The aim of the current analysis was to audit the results of an election in order
 
 -	Calculate the total number of votes cast in the election.
 -	Calculate the number of votes cast in each county.
--	Calculate the percentage of votes each country contributed to overall election vote total.
+-	Calculate the percentage of votes each county contributed to overall election vote total.
 -	Determine which county had the highest voter turnout.
 -	Calculate the total number of votes from the county that had the highest voter turnout.
 -	Calculate the percentage of total votes from the election that were from the country with the highest voter turnout.
